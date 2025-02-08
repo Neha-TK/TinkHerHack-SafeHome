@@ -79,7 +79,7 @@ python app.py
 ## *Project Demo*  
 
 ### *Video:*  
-[Insert your demo video link here]  
+[Watch video](https://www.youtube.com/watch?v=aOLilTYfNwM)     
 The video showcases how a user navigates Safe Home, from disguised entry to accessing support features.  
 
 ---
