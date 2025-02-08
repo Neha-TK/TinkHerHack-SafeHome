@@ -1,5 +1,5 @@
 
-# *Safe Home*  
+# *Safe Home* 🎯
 
 ## *Team Name:* Bytes  
 
@@ -102,3 +102,7 @@ The video showcases how a user navigates Safe Home, from disguised entry to acce
 
 ## *Team Contributions*  
 - *Neha TK & Fathima Varsha PT:* Shared responsibilities in frontend development, backend implementation, chatbot integration, and overall system design.
+
+---
+Made with ❤️ at TinkerHub
+
