@@ -52,13 +52,21 @@ python app.py
 
 ### *Screenshots:*  
 - ![Screenshot1](images/screenshot1.jpeg) Homepage disguised as a recipe website
+
 - ![Screenshot2](images/screenshot2.jpeg)
 - ![Screenshot3](images/screenshot3.jpeg) Entering a secret keyword unlocks the real site
+
 - ![Screenshot4](images/screenshot4.jpeg) Home page
-- ![Screenshot5](images/screenshot5.png)  AI therapy chatbot interface
+
+- ![Screenshot5](images/screenshot5.png)  AI chatbot interface
+
 - ![Screenshot6](images/screenshot6.jpeg) Personal Planning List
+
 - ![Screenshot7](images/screenshot7.jpeg) Find a Safe Shelter
+
 - ![Screenshot8](images/screenshot8.jpeg) Finance Manager
+
+- ![Screenshot9](images/screenshot8.jpeg) Find a job according to your qualification
 
 
 ### *Diagrams:*  
