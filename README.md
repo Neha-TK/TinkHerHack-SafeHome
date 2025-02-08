@@ -75,7 +75,7 @@ python app.py
 
 
 ### *Diagrams:*  
-- ![Workflow](#) System architecture showing website disguise, secure redirection, and user interactions  
+- Workflow System architecture showing website disguise, secure redirection, and user interactions  
 - **Platform Features Workflow:** 
 ```mermaid
 graph TD;
