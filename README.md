@@ -36,23 +36,26 @@ Safe Home presents itself as an innocent website, but upon entering a secret key
 
 ### *For Software:*  
 #### *Installation:*  
-
-git clone https://github.com/Neha-TK/TinkHerHack-SafeHome     
+```bash
+git clone https://github.com/Neha-TK/TinkHerHack-SafeHome
 cd TinkHerHack-SafeHome
-
+```
 
 #### *Run:*  
-https://neha-tk.github.io/TinkHerHack-SafeHome/
+#### *Run the Web App:*  
+Open in Browser: [Safe Home](https://neha-tk.github.io/TinkHerHack-SafeHome/)  
 
-For chatbot:
+#### *Run the Chatbot Locally:*  
+```bash
 python app.py
-
+```
 
 ---
 
 ## *Project Documentation*  
 
 ### *Screenshots:*  
+
 - ![Screenshot1](images/screenshot1.jpeg) Homepage disguised as a recipe website
 
 - ![Screenshot2](images/screenshot2.jpeg)
@@ -73,8 +76,21 @@ python app.py
 
 ### *Diagrams:*  
 - ![Workflow](#) System architecture showing website disguise, secure redirection, and user interactions  
+- **Platform Features Workflow:** 
+```mermaid
+graph TD;
+    User -->|Visits Website| DisguisedRecipeSite
+    DisguisedRecipeSite -->|Enters Safe Keyword| SecurePlatform
+    SecurePlatform -->|Access Support| Chatbot
+    SecurePlatform -->|Locate Help| ShelterFinder
+    SecurePlatform -->|Plan Safe Exit| EscapePlan
+    SecurePlatform -->|Manage Finances| FinanceManager
+    SecurePlatform -->|Get Assistance| Helpline
+    SecurePlatform -->|Find a Job| JobFinder
+    SecurePlatform -->|Learn Skills| SkillTraining
+```
 
----
+
 
 ## *Project Demo*  
 
