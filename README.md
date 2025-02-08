@@ -4,11 +4,11 @@
 ## *Team Name:* Bytes  
 
 ## *Team Members*  
-- *Neha TK* - [Government Engineering College Kozhikode]  
-- *Fathima Varsha PT* - [Government Engineering College Kozhikode]  
+- *Neha TK* - Government Engineering College Kozhikode
+- *Fathima Varsha PT* - Government Engineering College Kozhikode  
 
 ## *Hosted Project Link*  
-[https://neha-tk.github.io/TinkHerHack-SafeHome/]  
+https://neha-tk.github.io/TinkHerHack-SafeHome/ 
 
 ## *Project Description*  
 Safe Home is a discreet online platform designed to support women trapped in abusive relationships. The website initially appears as a normal shopping or recipe platform, but entering a specific keyword unlocks a secure space with mental health support, legal aid, financial resources, an AI-powered therapy chatbot, and access to a supportive community.  
@@ -37,12 +37,14 @@ Safe Home presents itself as an innocent website, but upon entering a secret key
 ### *For Software:*  
 #### *Installation:*  
 
-git clone https://github.com/Neha-TK/TinkHerHack-SafeHome
+git clone https://github.com/Neha-TK/TinkHerHack-SafeHome     
 cd TinkHerHack-SafeHome
 
 
 #### *Run:*  
+https://neha-tk.github.io/TinkHerHack-SafeHome/
 
+For chatbot:
 python app.py
 
 
@@ -66,7 +68,7 @@ python app.py
 
 - ![Screenshot8](images/screenshot8.jpeg) Finance Manager
 
-- ![Screenshot9](images/screenshot8.jpeg) Find a job according to your qualification
+- ![Screenshot9](images/screenshot9.png) Find a job according to your qualification
 
 
 ### *Diagrams:*  
@@ -79,9 +81,6 @@ python app.py
 ### *Video:*  
 [Insert your demo video link here]  
 The video showcases how a user navigates Safe Home, from disguised entry to accessing support features.  
-
-### *Additional Demos:*  
-[Add any extra demo materials or links]  
 
 ---
 
